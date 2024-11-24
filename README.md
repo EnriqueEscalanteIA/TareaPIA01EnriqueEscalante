@@ -3,9 +3,9 @@
 Este repositorio realiza las tareas relacionadas de la actividad del apartado 1 para crear mi primer repositorio de cara al futuro para familiarizarme con ello.
 
 ## 📝 Índice
-1. [🌐 Apartado 1: Crear cuenta en GitHub y "Hola Mundo"](#-apartado-1-crear-cuenta-en-github-y-hola-mundo)
-2. [🤝 Apartado 2: Conectar con la comunidad en redes sociales](#-apartado-2-conectar-con-la-comunidad-en-redes-sociales)
-3. [🎯 Conclusión](#-conclusión)
+1. 🌐Apartado 1: Crear cuenta y archivo python "Hola Mundo"(#-apartado-1-crear-cuenta-en-github-y-hola-mundo)
+2. 🤝Apartado 2: Conectar en redes sociales(#-apartado-2-conectar-con-la-comunidad-en-redes-sociales)
+3. 🎯Conclusión(#-conclusión)
 
 ---
 
